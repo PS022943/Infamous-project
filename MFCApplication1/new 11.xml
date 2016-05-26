@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhysDoc>
+<Teams>
+	<TeamName>PowerOrders</TeamName>
+	<TeamBtnId>1111</TeamBtnId>
+	<Url> AAAAAAAA </Url>
+	<ImgLocation> India </ImgLocation>
+	<Part> 4 </Part>
+	<Project>
+		<SubTeamBtnId>1222</SubTeamBtnId>
+	    <SubName>SPrabhat1</SubName>
+		<Url>http://www.google.com</Url>
+		<ImgLocation>Sub India </ImgLocation>
+	</Project>
+	<Project>
+	<SubTeamBtnId>1333</SubTeamBtnId>
+		<SubName>SPrabhat2</SubName>
+		<Url>http://www.yahoo.com </Url>
+		<ImgLocation>Sub India 1</ImgLocation>
+	</Project>
+	<Project>
+	<SubTeamBtnId>1444</SubTeamBtnId>
+	    <SubName>SPrabhat3</SubName>
+		<Url>http://www.google.com </Url>
+		<ImgLocation>Sub India </ImgLocation>
+	</Project>
+	<Project>
+	<SubTeamBtnId>1555</SubTeamBtnId>
+		<SubName>SPrabhat4</SubName>
+		<Url>http://www.yahoo.com </Url>
+		<ImgLocation>Sub India 1</ImgLocation>
+	</Project>
+</Teams>
+<Teams>
+	<TeamName>Amit Kumar</TeamName>
+	<TeamBtnId>2222</TeamBtnId>
+	<Url> DDDDDD </Url>
+	<ImgLocation> India </ImgLocation>
+	<Part> 4 </Part>
+</Teams>
+<Teams>
+	<TeamName>Ganesh Kari</TeamName>
+	<TeamBtnId>3333</TeamBtnId>
+	<Url> EEEEEE </Url>
+	<ImgLocation> India </ImgLocation>
+	<Part> 4 </Part>
+</Teams>
+<Teams>
+	<TeamName>Vijaya kumar</TeamName>
+	<TeamBtnId>4444</TeamBtnId>
+	<Url> FFFFFFF </Url>
+	<ImgLocation> India </ImgLocation>
+	<Part> 4 </Part>
+</Teams>
+</PhysDoc>
